@@ -3,7 +3,7 @@
 I'm a third-year student at Politecnico di Milano, pursuing my studies in IT engineering. 
 So far, I've had the opportunity to work on various exciting projects that have helped me expand my skills and knowledge.
 
-+ Final project for *Ingegneria del Software* 2023 course, where I'm developing a Java-based application.
++ [Final project](https://github.com/yexin01/ing-sw-2023-ye-rossi-rondi-russo) for *Ingegneria del Software* 2023 course, where I'm developing a Java-based application.
 This project has provided me with valuable hands-on experience in software development methodologies, design patterns, and testing.
 
 + Final project for *Reti Logiche* 2023 course, focusing on digital logic design using VHDL. This project allowed me to dive into the world of logical circuits and gain insights into hardware description languages.
