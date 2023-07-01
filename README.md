@@ -9,7 +9,7 @@ This project has provided me with valuable hands-on experience in software devel
 + Final project for *Reti Logiche* 2023 course, focusing on digital logic design using VHDL. This project allowed me to dive into the world of logical circuits and gain insights into hardware description languages.
 
 + Working on a web application project for *Tecnologie Informatiche del web* 2023 course, which I implemented in two versions.
-The first version was built using pure HTML, CSS, and Java, while the second version (RIA) incorporated JavaScript alongside the aforementioned web technologies.
+The first version was built using [pure HTML](https://github.com/polve99/TIW-project-2023-pure-HTML-Polverini-Ye), CSS, and Java, while the second version [RIA](https://github.com/polve99/TIW-project-2023-RIA-Polverini-Ye) incorporated JavaScript alongside the aforementioned web technologies.
 
 <sub>The repositories are still private for courses regolamentations for which i must wait a year after the mark to publish it.</sub>
 
